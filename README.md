@@ -1,13 +1,8 @@
 # OCR web app with keyword search functionality
 A web-based prototype that demonstrates the ability to perform Optical Character Recognition (OCR) on an uploaded image (in picture format) containing text in both Hindi and English. This also includes additional keyword search functionality.
 
-This project was done as a part of the assignment for Internship at PARIMAL Lab, IIT Roorkee. 
-
 ## Objective
 Develop and deploy a web-based prototype that demonstrates the ability to perform Optical Character Recognition (OCR) on an uploaded image (in picture format) containing text in both Hindi and English. The web application should also implement a basic keyword search functionality based on the extracted text. The prototype must be accessible via a live URL.
-
-## Scope of the Assignment
-This assignment focuses on creating a web application that allows users to upload a single image, processes the image to extract text using OCR, and provides a basic search feature. The application must be deployed and accessible online.
 
 # Tasks
 ## Task 1: Setup and OCR Implementation
